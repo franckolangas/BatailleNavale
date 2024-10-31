@@ -21,5 +21,5 @@ Ce projet est une implémentation du jeu de bataille navale, jouable contre l'or
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ton-nom-utilisateur/BatailleNavale.git
+   git clone https://github.com/franckolangas/BatailleNavale.git
 
